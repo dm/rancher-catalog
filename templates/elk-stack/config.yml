@@ -1,0 +1,5 @@
+name: elk-stack
+description: |
+  Starting an ELK stack
+version: v1.0
+category: ELK
